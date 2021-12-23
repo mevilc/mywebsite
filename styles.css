@@ -1,10 +1,6 @@
 body {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 30px;
-}
-
-a {
-    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
 }
 
 h1 {
@@ -12,10 +8,18 @@ h1 {
 }
 
 p1 {
-    text-align: left;
+    text-align: center;
 }
 
 p2 {
+    text-align: left;
+}
+
+p4 {
+    text-align: left;
+}
+
+p3 {
     text-align: left;
     text-decoration: underline;
 }
