@@ -1,4 +1,16 @@
 body {
-    text-align: center;
+    font-family: Calibri;
     background-color: powderblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+p1 {
+    text-align: left;
+}
+
+p2 {
+    text-decoration: underline;
 }
