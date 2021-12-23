@@ -1,13 +1,16 @@
-body {
+h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
 
 #info {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
     text-align: center;
 }
 
 #about {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
     text-align: left;
 }
