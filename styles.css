@@ -1,5 +1,5 @@
 body {
-    font-family: Calibri;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: powderblue;
 }
 
@@ -12,5 +12,6 @@ p1 {
 }
 
 p2 {
+    text-align: left;
     text-decoration: underline;
 }
