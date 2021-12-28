@@ -4,9 +4,15 @@ body {
 }
 
 h1 {
-    color: blue;
-    font-size: 40px;
+    color: gray;
+    font-size: 120px;
     text-align: center;
+}
+
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: pink;
 }
 
 ul { }
@@ -14,11 +20,11 @@ ul { }
 ul li {
     list-style: none;
     display: inline-block;
+    float: left;
 }
 
 ul li a {
     text-decoration: none;
-    float: left;
     font-size: 25px;
     color: green;
 
@@ -37,4 +43,5 @@ ul li a {
 
 #contacts {
     text-align: center;
+    float: left;
 }
