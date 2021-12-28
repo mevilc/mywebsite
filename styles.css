@@ -10,6 +10,7 @@ body {
 }
 
 #contacts {
+    margin: 10px 0;
     text-align: center;
 }
 
@@ -19,7 +20,7 @@ nav {
 }
 
 ul {
-    margin-left: 70px;
+    margin-left: 50px;
     margin-top: 0%;
 }
 
