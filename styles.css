@@ -7,6 +7,7 @@ body {
     color: gray;
     font-size: 100px;
     text-align: center;
+    font-weight: 300;
 }
 
 #contacts {
@@ -15,7 +16,7 @@ body {
 }
 
 ul {
-    margin-left: 80px;
+    margin-left: 120px;
     margin-top: 0%;
 }
 
