@@ -3,8 +3,25 @@ body {
     background-color: white;
 }
 
+ul { }
+
+ul li {
+    list-style: none;
+    display: inline-block;
+
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+#name {
+    text-align: left;
+    font-size: 25px;
+}
+
 h1 {
-    text-align: center;
+    text-align: left;
 }
 
 #info {
