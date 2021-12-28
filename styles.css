@@ -7,13 +7,14 @@ body {
     color: gray;
     font-size: 100px;
     text-align: center;
-    font-weight: 300;
+    font-weight: 1000;
 }
 
 #contacts {
     margin: 0;
     text-align: center;
     padding: 0 20px;
+    text-decoration: none;
 }
 
 nav {
@@ -22,8 +23,7 @@ nav {
 }
 
 ul {
-    margin-left: 120px;
-    margin-top: 0%;
+    text-align: center;
 }
 
 ul li {
