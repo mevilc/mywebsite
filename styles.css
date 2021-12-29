@@ -23,13 +23,13 @@ nav {
 }
 
 ul {
-    text-align: center;
 
 }
 
 ul li {
     list-style: none;
     display: inline-block;
+    text-align: center;
 }
 
 ul li a {
