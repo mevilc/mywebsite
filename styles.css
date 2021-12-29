@@ -12,7 +12,7 @@ body {
 }
 #contacts {
     align-items: center;
-    padding: 0 20px;
+    padding: 0 10px;
     text-decoration: none;
 }
 
@@ -55,7 +55,7 @@ body {
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 200px;
+    width: 350px;
     background-color: black;
     color: white;
     text-align: center;
