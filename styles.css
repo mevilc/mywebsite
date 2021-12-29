@@ -89,3 +89,8 @@ body {
 #about { padding: 0 20px; }
 
 h3 { color: green;}
+
+#pic {
+    position: absolute;
+    left: -50px;
+}
