@@ -29,7 +29,6 @@ ul {
 ul li {
     list-style: none;
     display: inline-block;
-    align-items: center;
 }
 
 ul li a {
