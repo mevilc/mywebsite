@@ -17,18 +17,26 @@ body {
     text-decoration: none;
 }
 
-nav {
+#nav {
+    position: absolute;
+    left: 0px;
     width: 100%;
     height: 100px;
+    background-color: green;
+    text-align: center;
 }
 
-ul {
-
-}
-
-ul li {
-    list-style: none;
+#nav ul {
+    margin: 0;
+    padding: 0;
     display: inline-block;
+}
+
+#nav ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: left;
 }
 
 ul li a {
@@ -37,6 +45,7 @@ ul li a {
     color: green;
     padding: 0 20px;
     text-align: center;
+    display: block;
 }
 
 ul li a:hover {
