@@ -79,13 +79,11 @@ body {
     padding: 0 20px;
 }
 
-#work {
+.work {
     font-size: 20px;
     text-align: left;
     padding: 0 20px;
     text-decoration: none;
 }
 
-a {
-    text-decoration: none;
-}
+#w_name { color:violet;}
