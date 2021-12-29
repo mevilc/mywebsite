@@ -19,7 +19,7 @@ body {
 
 #nav {
     left: 0px;
-    background-color: lightcoral;
+    background-color: whitesmoke;
     text-align: center;
     margin-top: 50px;
 }
@@ -40,13 +40,35 @@ body {
 #nav ul li a {
     text-decoration: none;
     font-size: 30px;
-    color: sandybrown;
+    color: lightcoral;
     padding: 0 20px;
     text-align: center;
 }
 
 #nav ul li a:hover {
     color: red;
+}
+
+.tooltip {
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+    width: 120px;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
 
 #info {
