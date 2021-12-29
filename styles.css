@@ -29,7 +29,7 @@ ul {
 ul li {
     list-style: none;
     display: inline-block;
-    margin-left: 400px;
+    align-items: center;
 }
 
 ul li a {
