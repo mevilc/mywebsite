@@ -39,7 +39,7 @@ body {
     float: left;
 }
 
-ul li a {
+#nav ul li a {
     text-decoration: none;
     font-size: 30px;
     color: green;
@@ -48,7 +48,7 @@ ul li a {
     display: block;
 }
 
-ul li a:hover {
+#nav ul li a:hover {
     color: red;
 }
 
