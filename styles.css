@@ -11,6 +11,8 @@ body {
     margin-bottom: 0%;
 }
 
+#email { padding-left: 50%;}
+
 #contacts {
     align-items: center;
     padding: 0 10px;
@@ -56,7 +58,7 @@ body {
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    width: 200px;
+    width: 300px;
     background-color: black;
     color: white;
     text-align: center;
