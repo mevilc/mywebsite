@@ -89,15 +89,3 @@ body {
 #about { padding: 0 20px; }
 
 h3 { color: green;}
-
-.column {
-    float: left;
-    width: 33.33%;
-    padding: 5px;
-}
-
-.row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
