@@ -91,6 +91,7 @@ body {
 h3 { color: green;}
 
 #about1 { 
+    line-height: 0px;
     padding-top: 0px;
     padding-left: 20px;
     padding-right: 20px;
