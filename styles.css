@@ -90,9 +90,14 @@ body {
 
 h3 { color: green;}
 
-#about1 { 
-    line-height: 0px;
-    padding-top: 0px;
-    padding-left: 20px;
-    padding-right: 20px;
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
 }
